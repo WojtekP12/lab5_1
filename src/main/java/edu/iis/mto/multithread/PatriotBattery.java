@@ -1,5 +1,6 @@
 package edu.iis.mto.multithread;
 
-public interface PatriotBattery {
+public interface PatriotBattery 
+{
 	void launchPatriot();
 }
