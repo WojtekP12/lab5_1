@@ -25,7 +25,7 @@ public class BetterRadar
 			@Override
 			public void run() {
 				// TODO Auto-generated method stub
-				for (int i = 0; i < 10; i++) 
+				for (int i = 0; i < 1; i++) 
 				{
 					battery.launchPatriot();
 				}
